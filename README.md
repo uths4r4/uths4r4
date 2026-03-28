@@ -25,10 +25,10 @@ I am a **Computer Science Undergraduate** focused on the intersection of softwar
 ---
 
 ### 📊 Professional Development
-- 📈 **Business Analysis:** [||||||||||||--------] 75%
 - 🏗️ **Agile & Scrum Framework:** [||||||||||||||----] 85%
-- ⚛️ **React Development:** [||||||||------------] 45%
+- 📈 **Business Analysis:** [||||||||||||--------] 75%
 - 📉 **Predictive Analytics:** [||||||||||----------] 60%
+- ⚛️ **React Development:** [||||||||||------------] 55%
 
 ---
 
@@ -56,8 +56,8 @@ I am a **Computer Science Undergraduate** focused on the intersection of softwar
 
 ### 📫 Connect with Me
 - 🌐 **Portfolio:** [uthsarakasthurirathne.online](https://uthsarakasthurirathne.online)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 **Email:** [Your Email Address]
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/uthsara-kasthurirathne)
+- 📧 **Email:** [savinduuthsara655@gmail.com]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
