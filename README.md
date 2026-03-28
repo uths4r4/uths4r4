@@ -32,16 +32,8 @@ I am a **Computer Science Undergraduate** with a strong focus on **Frontend Deve
 
 ---
 
-### 📊 GitHub Activities & Stats
-
-| My Stats | Top Languages |
-| ----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=uths4r4&show_icons=true&theme=transparent" width="400" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uths4r4&layout=compact&theme=transparent" width="300" alt="Langs" /> |
----
-
 ### 🐍 Contribution Graph
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uths4r4&theme=tokyonight)
-
+![Snake animation](https://raw.githubusercontent.com/uths4r4/uths4r4/output/github-snake-dark.svg)
 ---
 
 ### 📫 Connect with Me
