@@ -2,13 +2,13 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Seeking%20Internships-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Aspiring%20PM%20%2F%20BA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Aspiring%20PM%20%2F%20BA%20%2F%20UI--UX-blue?style=for-the-badge" />
 </p>
 
 ### 🎯 Professional Objective
-> "Bridging the gap between technical execution and business strategy through data-driven insights and Agile leadership."
+> "Bridging the gap between technical execution and business strategy through intuitive UI/UX design and Agile leadership."
 
-I am a **Computer Science Undergraduate** focused on the intersection of software development and project management. I thrive in environments where I can analyze complex requirements, manage workflows, and lead cross-functional teams toward high-value delivery.
+I am a **Computer Science Undergraduate** with a strong focus on **Frontend Development** and **UI/UX Design**. I thrive in the intersection of business and technology, utilizing **Business Analysis** and **Project Management** methodologies to ensure technical projects deliver real user value.
 
 ---
 
@@ -17,26 +17,18 @@ I am a **Computer Science Undergraduate** focused on the intersection of softwar
   <img src="https://skillicons.dev/icons?i=jira,trello,clickup,figma,notion,docs" alt="PM Tools" />
 </p>
 
-### 💻 Technical Stack
+### 💻 Technical Stack (Frontend & Backend)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,react,html,css,js,django,mongodb,git,github,docker,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,python,sql,django,mongodb,git,github,vercel" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 📊 Professional Development
+- 🎨 **UI/UX & Frontend Design:** [||||||||||||||----] 85%
 - 🏗️ **Agile & Scrum Framework:** [||||||||||||||----] 85%
-- 📈 **Business Analysis:** [||||||||||||--------] 75%
-- 📉 **Predictive Analytics:** [||||||||||----------] 60%
-- ⚛️ **React Development:** [||||||||||------------] 55%
-
----
-
-### 🚀 Featured Project: Syntrix
-**Syntrix** is an AI-powered forecasting and inventory management system designed for the food industry.
-- **My Role:** Lead Developer & Business Analyst.
-- **Focus:** Requirement gathering, predictive modeling, and UI/UX workflow design.
-- **Tech:** Python, Machine Learning, Data Mining.
+- 📊 **Business Analysis:** [||||||||||||--------] 75%
+- ⚛️ **React Development:** [||||||||------------] 55%
 
 ---
 
@@ -44,20 +36,19 @@ I am a **Computer Science Undergraduate** focused on the intersection of softwar
 
 | My Stats | Top Languages |
 | ----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=uths4r4&show_icons=true&theme=tokyonight" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uths4r4&layout=compact&theme=tokyonight" width="300" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=uths4r4&show_icons=true&theme=tokyonight" width="400" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uths4r4&layout=compact&theme=tokyonight" width="300" alt="Langs" /> |
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github-readme-stats.vercel.app/api?username=uths4r4&show_icons=true&theme=tokyonight)
-*(Optional: Add your Snake Game Action output here)*
+### 🐍 Contribution Graph
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uths4r4&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me
 - 🌐 **Portfolio:** [uthsarakasthurirathne.online](https://uthsarakasthurirathne.online)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/uthsara-kasthurirathne)
-- 📧 **Email:** [savinduuthsara655@gmail.com]
+- 💼 **LinkedIn:** [linkedin.com/in/uthsara-kasthurirathne](https://www.linkedin.com/in/uthsara-kasthurirathne)
+- 📧 **Email:** [savinduuthsara655@gmail.com](mailto:savinduuthsara655@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
