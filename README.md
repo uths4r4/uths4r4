@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Uthsara Kasthurirathne 👋
 
-<!--
-**uths4r4/uths4r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Aspiring Business Analyst & Project Manager
+I’m a Computer Science Undergraduate passionate about bridging the gap between technical complexity and business value. I enjoy Project Management, Business Analysis, and crafting clean frontend experiences with a focus on UI/UX.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,figma,windows,apple" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,mongodb,mysql,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=uths4r4&show_icons=true&theme=tokyonight" alt="Uthsara's Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uths4r4&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Get in Touch
+- 🌐 Portfolio: [uthsarakasthurirathne.online](https://uthsarakasthurirathne.online)
+- 💼 LinkedIn: [Your LinkedIn Link Here]
