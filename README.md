@@ -14,12 +14,12 @@ I am a **Computer Science Undergraduate** with a strong focus on **Frontend Deve
 
 ### 💼 PM & BA Power Suite
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jira,trello,clickup,figma,notion,docs" alt="PM Tools" />
+  <img src="https://skillicons.dev/icons?i=notion,figma,gmail,docs,apple,windows" alt="PM Tools" />
 </p>
 
 ### 💻 Technical Stack (Frontend & Backend)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,python,sql,django,mongodb,git,github,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,python,mysql,django,mongodb,git,github,vercel" alt="Tech Stack" />
 </p>
 
 ---
@@ -32,12 +32,11 @@ I am a **Computer Science Undergraduate** with a strong focus on **Frontend Deve
 
 ---
 
-### 📈 GitHub Activities & Stats
+### 📊 GitHub Activities & Stats
 
 | My Stats | Top Languages |
 | ----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=uths4r4&show_icons=true&theme=tokyonight" width="400" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uths4r4&layout=compact&theme=tokyonight" width="300" alt="Langs" /> |
-
+| <img src="https://github-readme-stats.vercel.app/api?username=uths4r4&show_icons=true&theme=transparent" width="400" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uths4r4&layout=compact&theme=transparent" width="300" alt="Langs" /> |
 ---
 
 ### 🐍 Contribution Graph
