@@ -1,7 +1,6 @@
 # Hi, I'm Uthsara Kasthurirathne 👋 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Seeking%20Internships-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-Aspiring%20PM%20%2F%20BA%20%2F%20UI--UX-blue?style=for-the-badge" />
 </p>
 
